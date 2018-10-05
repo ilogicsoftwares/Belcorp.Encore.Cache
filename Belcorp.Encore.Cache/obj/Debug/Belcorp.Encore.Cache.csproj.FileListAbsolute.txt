@@ -1,0 +1,2 @@
+c:\last\Belcorp.Encore.Cache\Belcorp.Encore.Cache\obj\Debug\Belcorp.Encore.Cache.csproj.App.config
+c:\last\Belcorp.Encore.Cache\Belcorp.Encore.Cache\obj\Debug\Belcorp.Encore.Cache.csprojResolveAssemblyReference.cache
